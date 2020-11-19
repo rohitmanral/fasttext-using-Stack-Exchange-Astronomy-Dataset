@@ -1,7 +1,11 @@
 # fasttext-using-Stack-Exchange-Astronomy-Dataset
 
 
-fastText Implementation
+<center> <h1>fastText Implementation </h1> </center>
+
+<p align="center">
+  <img width="260" height="150" src="https://fasttext.cc/img/ogimage.png">
+</p>
 
 
 This repository implemented fastText on Astronomy dataset, which is an open-source, lightweight, free library that allows users to learn text classifiers and text representations. It works on standard, generic hardware. Model size can later be reduced to fit on mobile devices.
