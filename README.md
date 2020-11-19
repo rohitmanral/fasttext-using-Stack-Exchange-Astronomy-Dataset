@@ -15,4 +15,4 @@ This repository implemented fastText on Astronomy dataset, which is an open-sour
 * For Reporting: Latex + Overleaf
 
 ## Astronomy Stack Exchange Data
-Astronomy Stack Exchange is a question and answer site for astronomers and astrophysicists. The dataset has been obtained from Astronomy Stack Exchange. I have used Python's Library called BeautifulSoup to scrape Questions and their respective Tags from the webpages. This dataset contains 9800 rows and some labels and is a multi label dataset. I have also explored hierarchical softmax and bigrams for this dataset.
+Astronomy Stack Exchange is a question and answer site for astronomers and astrophysicists. The dataset has been obtained from [Astronomy Stack Exchange](https://astronomy.stackexchange.com/questions?tab=newest&pagesize=50). I have used Python's Library called BeautifulSoup to scrape Questions and their respective Tags from the webpages. This dataset contains 9800 rows and some labels and is a multi label dataset. I have also explored hierarchical softmax and bigrams for this dataset.
