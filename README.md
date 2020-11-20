@@ -1,6 +1,3 @@
-# fasttext-using-Stack-Exchange-Astronomy-Dataset
-
-
 <center> <h1>fastText Implementation </h1> </center>
 
 <p align="center">
